@@ -16,4 +16,4 @@ const createWindow = () => {
     mainWindow.loadFile(join(__dirname + '/index.html'));
 }
 
-app.once("ready", createWindow);
+app.on("ready", createWindow);
