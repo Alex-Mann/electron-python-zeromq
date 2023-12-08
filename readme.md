@@ -12,7 +12,7 @@ cd frontend && npm i
 
 ### Backend / Python / ZMQ
 ```
-pip3 install zmq
+pip3 install pyzmq # uses version 25.1.2
 ```
 
 ## Running

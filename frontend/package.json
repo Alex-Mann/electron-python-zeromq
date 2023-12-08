@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^11.1.1",
+    "electron": "^28.0.0",
     "jquery": "^3.5.1",
     "time-stamp": "^2.2.0",
-    "zeromq": "^6.0.0-beta.6"
+    "zeromq": "^6.0.0-beta.19"
   }
 }
